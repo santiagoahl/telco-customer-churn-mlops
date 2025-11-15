@@ -1,6 +1,6 @@
-# **🖥️ Mini-Prod ML Challenge**
+# **🖥️ Customer Churn Prevention for Telco Companies**
 
-This Mini-Prod Challenges is part of a tech test @ Zubale for a ML Engineer postition. It is made to code, build, test, deploy and test a **Customer Churn Predictive Model** using Python, Pytest, FastAPI, Docker and GCP.
+Hey there! Throughout this project we aim to proved a solution to **mitigate customers leaving your product**. It is made to code, build, test, deploy and test a **Customer Churn Predictive Model** using Python, Pytest, FastAPI, Docker and GCP.
 
 ---
 ## GCP Architecture
