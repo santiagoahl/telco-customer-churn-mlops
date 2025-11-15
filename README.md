@@ -15,8 +15,8 @@ This project uses [__Poetry__](__https://python-poetry.org/__) for dependency ma
 ### **1. Clone the repository**
 
 ```bash
-git clone git@github.com:santiagoahl/zubale-ml-test.git
-cd zubale-ml-test
+git clone git@github.com:santiagoahl/telco-customer-churn-mlops.git
+cd telco-customer-churn-mlops
 ````
 
 ### 2. Install dependencies
