@@ -5,7 +5,8 @@ Hey there! Throughout this project we aim to proved a solution to **mitigate cus
 ---
 ## GCP Architecture
 
-![GCP Architecture](https://raw.githubusercontent.com/santiagoahl/zubale-ml-test/main/GCP%20Architecture%20for%20Zubale%20Product.drawio.png)
+<img width="720" height="653" alt="GCP Architecture for Zubale Product drawio" src="https://github.com/user-attachments/assets/c5061ba6-482e-426d-9a55-97b1a1302817" />
+
 
 ## **🛠️ Setup**
 
